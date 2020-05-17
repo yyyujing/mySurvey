@@ -22,7 +22,7 @@ name3= 'S1'
 meanS1 = calculation(df,name3)
 
 name4='S2'
-
+meanS1
 
 
 #calculate personality traits
